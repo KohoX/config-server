@@ -2,7 +2,7 @@ build:
   version: "card3.0"
 
 card-service:
-  message: "Welcome to KOHO Bank cards related Production APIs "
+  message: "Welcome to KOHO Bank "
   contactDetails:
     name: "Jordan Ramsey - Developer"
     email: "jramsey@email.com"
@@ -10,4 +10,5 @@ card-service:
     - (412) 419-3491
 
     - (915) 382-1932
+
 
