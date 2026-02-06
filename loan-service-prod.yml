@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loan-service:
-  message: "Welcome to KOHO Bank loans related prod APIs "
+  message: "Welcome to KOHO Bank loans related prod APIs. Prod config loading... "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@email.com"
