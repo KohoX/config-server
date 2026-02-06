@@ -2,7 +2,7 @@ build:
   version: "card3.0"
 
 card-service:
-  message: "Welcome to KOHO Bank Web Hook"
+  message: "Welcome to KOHO Bank. Testing webhook in container..."
   contactDetails:
     name: "Jordan Ramsey - Developer"
     email: "jramsey@email.com"
@@ -10,6 +10,7 @@ card-service:
     - (412) 419-3491
 
     - (915) 382-1932
+
 
 
 
