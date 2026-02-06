@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-cards:
+card-service:
   message: "Welcome to KOHO Bank card related local APIs  "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"

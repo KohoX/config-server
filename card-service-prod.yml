@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-cards:
+card-service:
   message: "Welcome to KOHO Bank card related local APIs  "
   contactDetails:
     name: "Sandra Harald - Product Owner"

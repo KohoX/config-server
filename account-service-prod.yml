@@ -1,7 +1,7 @@
 build:
   version: "acc3.0"
 
-accounts:
+account-service:
   message: "Welcome to KOHO Bank accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"

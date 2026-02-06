@@ -1,7 +1,7 @@
 build:
   version: "loan3.0"
 
-loans:
+loan-service:
   message: "Welcome to KOHO Bank loan related local APIs "
   contactDetails:
     name: "Amaal Grega - Developer"
